@@ -16,6 +16,14 @@ int main()
     return 0;
 }
 /*
+**********
+what i want:
+dodawac wektor + wektor
+to bym chcial wybrac ktory do ktorego chyba 
+
+
+
+*********
     //cout << "Istnieje " << Wektor::numberOfPoints() << " punktow." << endl;
 
     for (int i = 0; i < 10; i++)
