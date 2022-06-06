@@ -17,11 +17,7 @@ int main()
 }
 /*
 **********
-what i want:
 dodawac wektor + wektor
-to bym chcial wybrac ktory do ktorego chyba 
-
-
 
 *********
     //cout << "Istnieje " << Wektor::numberOfPoints() << " punktow." << endl;
